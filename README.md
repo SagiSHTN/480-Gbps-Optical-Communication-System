@@ -30,7 +30,7 @@ N/A
 
 
 ## System Results
-![Screenshot](Full system 3.emf)
+![Full system](Full system 3.emf)
 
 
 
