@@ -2,7 +2,13 @@
 
 
 ## Description:
-Numerical simulation platform to evaluate the perfomances of a 400 Gb/s optical coherent communication system using different advanced technologies deployed in optical networks, including MIMO equalization techniques
+Numerical simulation platform to evaluate the perfomances of a 400 Gb/s optical coherent communication system using different advanced technologies deployed in optical networks, including MIMO equalization techniques.
+
+**Owners:
+
+Sagi Shtainman - Linkedin https://www.linkedin.com/in/sagi-shtainman-603b31a0/
+
+Sagi Radiano - Linkedin https://www.linkedin.com/in/sagi-radiano
 
 
 ## Installation:
