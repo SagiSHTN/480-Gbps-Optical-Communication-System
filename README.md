@@ -34,7 +34,7 @@ N/A
 
 ![](System%20Diagram.jpg)
 
-*The X&Y polarizations after the CDC component marked as a 1 line for esthetics only
+*The X&Y polarizations after the CDC component marked as a 1 line for esthetics only*
 
 **Results:**
 
