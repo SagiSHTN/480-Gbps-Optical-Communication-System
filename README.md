@@ -6,7 +6,7 @@ Numerical simulation platform to evaluate the perfomances of a 480 Gb/s optical 
 
 **Owners:**
 
-Sagi Shtainman - Linkedin https://www.linkedin.com/in/sagi-shtainman-603b31a0/
+Sagi Shtainman - Linkedin https://www.linkedin.com/in/sagi-shtainman
 
 Sagi Radiano - Linkedin https://www.linkedin.com/in/sagi-radiano
 
