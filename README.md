@@ -29,8 +29,29 @@ N/A
 
 
 
-## System Results
-![Full system](Full system 3.emf)
+## System and Results
+**System Diagram:**
+
+![](System%20Diagram.jpg)
+
+**Results:**
+
+**16QAM Constellation**
+
+![](16qam%20constellation.bmp)
+
+
+**CMA and RDE Equalization**
+
+![](CMA&RDE%20Constellation.bmp)
+
+
+**LMS Equalization**
+
+![](LMS%20Constellation.bmp)
+
+
+
 
 
 
