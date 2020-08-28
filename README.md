@@ -20,7 +20,9 @@ N/A
 
 ### References
 [1] S. J. Savory, “Digital filters for coherent optical receivers,” Optics Express, vol. 16, no. 2, p. 804, 2008.
+
 [2] S. Ten, M. Edwards, “Introduction: Importance of PMD for High Data Rate Transmission Systems,” pp. 1–12, 2006.
+
 [3] M. S. Faruk and S. J. Savory, “Digital Signal Processing for Coherent Transceivers Employing Multilevel Formats,” Journal of Lightwave Technology, vol. 35, no. 5, pp. 1125–1141, 2017.
 [4] D. Lavery, M. Paskov, R. Maher, S. J. Savory, and P. Bayvel, “Modified Radius Directed Equaliser for High Order QAM.”,2015.
 [5] K. Kikuchi, “Fundamentals of coherent optical fiber communications,” Journal of Lightwave Technology, vol. 34, no. 1. Institute of Electrical and Electronics Engineers Inc., pp. 157–179, 01-Jan-2016.
