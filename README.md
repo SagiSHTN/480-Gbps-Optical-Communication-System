@@ -1,8 +1,8 @@
-# Numerical Simulation Platform to evaluate the performences of 400 Gb/s optical coherent communication system using advanced technologies deployed 
+# Numerical Simulation Platform to evaluate the performences of 480 Gb/s optical coherent communication system using advanced technologies deployed 
 
 
 ## Description:
-Numerical simulation platform to evaluate the perfomances of a 400 Gb/s optical coherent communication system using different advanced technologies deployed in optical networks, including MIMO equalization techniques.
+Numerical simulation platform to evaluate the perfomances of a 480 Gb/s optical coherent communication system using different advanced technologies deployed in optical networks, including MIMO equalization techniques.
 
 **Owners:**
 
