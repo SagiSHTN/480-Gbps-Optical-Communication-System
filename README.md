@@ -1,14 +1,14 @@
-# Description:
+# Description
 Numerical simulation platform to evaluate the perfomances of a 480 Gb/s optical coherent communication system using different advanced technologies deployed in optical networks, including MIMO equalization techniques.
 
-**Owners:**
+**Owners**
 
 Sagi Shtainman - Linkedin https://www.linkedin.com/in/sagi-shtainman
 
 Sagi Radiano - Linkedin https://www.linkedin.com/in/sagi-radiano
 
 
-## Installation:
+## Installation
 Unzip and Drag all Matlab files to the same path and run 'DP16QAM_Optic_Main'.
 
 **In order to get the code you need to ask permission.** 
@@ -16,13 +16,21 @@ Unzip and Drag all Matlab files to the same path and run 'DP16QAM_Optic_Main'.
 *Change in the system parameters will lead to different results.*
 
 
-## Usage:
+## Usage
 Please read the notes written in the matlab codes.
 
 
-## Contributing:
+## Contributing
 N/A
 
+
+
+## Optical Channel Model
+
+*The Optic Channel was divided to 50 sections in order to simulate the Maxwellian distribution effect of the PMD*
+
+![](Optical%20Channel.jpg)
+![](Dynamic%20Channel.jpg)
 
 
 
